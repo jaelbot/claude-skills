@@ -1,0 +1,23 @@
+{
+  "skill_name": "gftn-principal-staffing",
+  "evals": [
+    {
+      "id": 0,
+      "prompt": "I need to set up the staffing materials for the Black Swan Summit — it's 23 to 25 March 2026 in Perth, Australia. We have four principals: the Chairman, Deputy Chairman, Board Member 1, and Board Member 2. On 23 March we have the GFTN Board Meeting in the morning (let's say 9am to 12pm) and a Strategy Meeting in the afternoon (2pm to 5pm). Speaking roles for all four principals are spread across 24 and 25 March — the specific slots are TBC. We have one coordinator who will double as a POC, plus two other POCs. Can you generate the schedule tracker and any briefing doc stubs we need?",
+      "expected_output": "An Excel schedule tracker (.xlsx) with Master Overview tab, one tab per principal (Chairman, Deputy Chairman, Board Member 1, Board Member 2), POC Checklist tab, and WhatsApp Group Setup tab. Plus at least two briefing document stubs (.docx) — one for the GFTN Board Meeting and one for the Strategy Meeting on 23 March.",
+      "files": []
+    },
+    {
+      "id": 1,
+      "prompt": "Can you create a briefing document for the GFTN Board Meeting on 23 March morning at the Black Swan Summit? The Chairman will be chairing it. The POC is Sarah Chen.",
+      "expected_output": "A single briefing document (.docx) for the GFTN Board Meeting, pre-structured with sections: At a Glance (event, date, principal, type, POC), plus sections for Objective, Audience/Attendees, Principal's Role, Key Messages, Background & Context, Logistics, and Contact on the Day. Placeholders clearly marked for the POC to fill in.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "I'm the POC for the Deputy Chairman at the Black Swan Summit. I want to add a few things to the tracker. He has a speaking slot on 24 March at 10:00am on the main stage, running 30 minutes. I also want to suggest he watches a panel on regional digital infrastructure on 25 March at 2pm — it'd be a good use of his free time. And there's a bilateral meeting with the Governor of the Reserve Bank of Australia being arranged for 25 March at 4pm (venue TBC, GFTN is arranging it, briefing needed). Can you update his itinerary?",
+      "expected_output": "An updated itinerary for the Deputy Chairman showing three new entries: (1) speaking slot on 24 March 10:00-10:30 on main stage, (2) suggested session on 25 March 14:00 highlighted in yellow, (3) bilateral meeting on 25 March 16:00 TBC venue. A briefing doc stub for the bilateral meeting. Clear note that the user should update the shared SharePoint tracker.",
+      "files": []
+    }
+  ]
+}
