@@ -15,17 +15,26 @@
 
 ---
 
-## Forum Overview (Slide 3)
+## Forum Overview (Slide 2)
 
 > "The world's SME finance gap has grown to $5.7 trillion. Closing it requires more than capital — but a system.
 >
-> The 12th Global SME Finance Forum brings together the policymakers, financiers, fintechs and innovators who are building that system to advance SME financing and catalyse knowledge and digital solutions."
+> The 12th Global SME Finance Forum brings together the policymakers, financiers, fintechs and innovators who are building that system to advance SME financing and catalyse knowledge and digital solutions.
+>
+> This year, the world's development agenda gets set at the World Bank Group's Main Complex in Washington, D.C. The D.C. edition follows Johannesburg (2025) and São Paulo (2024), completing a rotation across three continents."
+
+**2026 Headline Stats (for Slide 2)**
+| Stat | Value |
+|------|-------|
+| Senior Decision-Makers | 1,000 |
+| C-Suite | 60% |
+| Countries represented | 77 |
 
 ---
 
 ## Location Value Proposition (Slide 4)
 
-Use this as a dedicated slide — Washington D.C. is a key selling point for 2026.
+Dedicated slide — Washington D.C. is a key selling point for 2026.
 
 - **Venue**: World Bank Group Main Complex, Washington, D.C.
 - **Audience**: 1,000 senior decision-makers across the SME finance ecosystem
@@ -35,21 +44,35 @@ Use this as a dedicated slide — Washington D.C. is a key selling point for 202
 
 ---
 
-## Network Stats (Slide 5)
+## Network Stats (Slide 3)
+
+**Quote:**
+> "Having become a global center of knowledge excellence, SME Finance Forum is now transitioning towards solution building innovation hub for financial services industry to scale finance, create livelihoods and achieve impact."
+> — Qamar Saleem, Head, SME Finance Forum
 
 | Stat | Value |
 |------|-------|
-| SME Finance Stakeholders | 300+ |
+| SME Finance Stakeholders | 300+ members & affiliates |
 | MSMEs serviced globally | 33 million |
 | Finance enabled | US$140 billion |
 | Assets under management | US$7.9 trillion |
 | Countries covered | 190+ |
 
 *Created by IFC, Managed by SME Finance Forum*
+*SME Finance Forum undertakes over 50 engagements in a year to support members and global industry stakeholders.*
 
 ---
 
-## Theme (Slide 8)
+## GFTN Network (Slide 4)
+
+Powered by GFTN's network and collaborations with global financial ecosystems.
+
+- The largest convening network for FinTech; expanding to engage both the Global South and the North
+- A purpose-built, specialist orchestrator of digital finance transformation — helping central banks, regulators, and financial institutions build a strategy and operationalise it through The GFTN Method, featuring practitioner-led implementation partnerships
+
+---
+
+## Theme (Slide 5)
 
 **Theme**: Transforming Access into Impact: Market, Capital, Technology
 
@@ -59,7 +82,7 @@ Use this as a dedicated slide — Washington D.C. is a key selling point for 202
 
 ---
 
-## Topics (Slide 9)
+## Topics (Slide 5)
 
 ### Market Layer: Borderless & Embedded Growth
 - Cross-Border Trade Rails and digital commerce for SMEs
@@ -84,7 +107,7 @@ Use this as a dedicated slide — Washington D.C. is a key selling point for 202
 
 ---
 
-## Week Overview (Slide 12)
+## Week Overview (Slide 6)
 
 | Day | Date | Programme |
 |-----|------|-----------|
@@ -97,33 +120,101 @@ Use this as a dedicated slide — Washington D.C. is a key selling point for 202
 
 ---
 
-## Partnership Value Proposition (Slide 16 — Why Sponsor)
+## Who Attends (Slide 7)
+
+*Use 2025 data with note that 2026 figures are projected at 1,000 attendees.*
+
+**2024 Participant Breakdown — by type**
+| Type | % |
+|------|---|
+| Banks | 30% |
+| DFIs | 19% |
+| Fintech | 17% |
+| Others | 13% |
+| NBFIs | 12% |
+| Government Agencies | 9% |
+
+**2024 Participant Breakdown — by region**
+| Region | % |
+|--------|---|
+| East Asia & Pacific | 46% |
+| Sub-Saharan Africa | 16% |
+| Americas | 11% |
+| South Asia | 10% |
+| Europe & Central Asia | 9% |
+| Middle East & North Africa | 8% |
+
+*Note: Slide 7 in the pre-design draft includes placeholders for 2025 Johannesburg participant data — update when available.*
+
+---
+
+## Featured Speakers
+
+### 2025 Speakers (Johannesburg)
+*To be updated when confirmed — placeholders from 2024 below.*
+
+### 2024 Speakers (São Paulo)
+| Name | Title | Organisation |
+|------|-------|-------------|
+| Vijay Shekhar Sharma | Founder & CEO | Paytm |
+| Stella Tembisa Ndabeni-Abrahams | Minister of Small Business Development | Republic of South Africa |
+| Márcio Luiz França Gomes | Minister of Entrepreneurship, Microenterprise and Small Business | Brazil |
+| Myriam Etile | Global Head of SMB Insights | Visa Commercial Solutions |
+| Paolo Sironi | IBM Global Research Leader, Banking and Financial Markets | IBM |
+
+---
+
+## Past Sponsors (Slide 9)
+
+Slide groups sponsors by tier:
+- **Gold Sponsors** — 2025 logos (to be inserted)
+- **Silver Sponsors** — 2025 logos (to be inserted)
+- **Bronze Sponsors** — 2025 logos (to be inserted)
+- **Friends of FinTech** — 2025 logos (to be inserted)
+- Also display 2024 sponsors for reference
+
+---
+
+## Partnership Value Proposition (Slide 10 — Why Sponsor)
 
 1. **Shape the agenda.** Co-curate sessions with policymakers and DFIs on the topics that matter most to your business.
 2. **Connect at the top.** Meet 1,000 senior decision-makers including CEOs, CROs, ministers and fund managers who move capital into SME markets.
-3. **Be seen as a systems builder.** Align your brand with the Growth Stack framework and position your organisation as part of the solution to the $5.7T financing gap.
+3. **Be seen as a systems builder.** Align your brand with the Market • Capital • Technology framework and position your organisation as part of the solution to the $5.7T financing gap.
+
+*Following the success of the 2025 Johannesburg edition, an official side event of the South Africa G20 Presidency, the 2026 Forum builds on a decade-plus track record of convening the world's leading SME finance practitioners.*
 
 ---
 
-## Speakers
+## Closing / Contact (Slide 11)
 
-*2026 speakers TBC — not yet confirmed at time of writing.*
+> "Join us in Washington, D.C. September 14–16, 2026. Secure your place today."
 
-Use 2025 speakers as placeholders if needed. See [gsmef-2025-content.md](gsmef-2025-content.md) for the 2025 speaker list.
-
----
-
-## Audience Stats
-
-*2026 projections: 1,000 senior decision-makers expected.*
-
-For historical breakdown by attendee type and geography, see [gsmef-2025-content.md](gsmef-2025-content.md) — use 2025 data with a note that 2026 figures are projected.
+**Contact**: Madhuri Dhanani — Madhuri.Dhanani@gftn.com
 
 ---
 
-## Sponsorship Tiers
+## Sponsorship Tiers (Slide 12)
 
-*Pull from the GSMEFF26 Teaser Deck / current pricing sheet. Ask the user to confirm tier names, prices, and benefit breakdown before building slide 15.*
+*Pull from current pricing sheet — ask user to confirm tier names, prices, and benefit breakdown before building.*
+
+---
+
+## Activations (Slides 13–22)
+
+Standard activations confirmed for 2026:
+
+| Activation | Key Specs |
+|-----------|-----------|
+| Boardroom Discussion | 90 min, 10 pax, closed-door, by invitation, dedicated findings report — 8 slots |
+| Workshops | 30 min, 100 pax, open to all, attendee list provided — 16 slots |
+| Breakfast / Lunch Briefing | 60 min, 10 pax, private, dedicated findings report — 1 slot per location per day |
+| Breakfast Reception | CEO welcome remarks, screen branding (highest traffic), app + agenda logo, branded tent cards — 2 slots (1 per day) |
+| Lunch Reception | CEO welcome remarks, screen branding, app + agenda logo, 1 branded tent card — 2 slots (1 per day) |
+| Tea Break | Screen branding, app + agenda logo, 1 branded tent card — 2 slots (1 per day) |
+| Registration Branding | Online registration page + onsite registration desk branding |
+| Lanyards Branding | Ticket confirmation + lanyards worn by all attendees |
+| Event App & Meetings Area | Logo in app, pre-event marketing campaigns, early attendee list access |
+| Executive Lounge | Registration desk branding + VIP lounge branding (collaterals, tables, coffee area) |
 
 ---
 

@@ -11,149 +11,220 @@ Creates a professional GFTN partnership/sponsorship deck as a `.pptx` file, foll
 
 ---
 
-## Step 1: Gather Inputs
+## Step 1: Determine the Mode
 
-Collect the following before building. Ask the user for anything not provided. Skip slides where data is genuinely unavailable rather than leaving placeholders.
+**Before doing anything else**, ask:
 
-### Required
-| Field | Example |
-|-------|---------|
-| Event name | Global SME Finance Forum 2026 |
-| Year | 2026 |
-| Location | Washington, D.C., USA |
-| Hosted by | SME Finance Forum (managed by IFC) |
-| Organised by | GFTN |
-| Theme | Transforming Access into Impact |
-| Event dates | 14–16 September 2026 |
-| Edition number | 12th edition |
+> "Is this a **brand new forum** (first edition, no previous decks), or does this forum have **previous editions** I can reference?"
 
-### Optional (include slides only if data is available)
-| Field | Notes |
-|-------|-------|
-| Topic pillars + sub-topics | 3 pillars, 3–5 bullets each |
-| Previous year audience stats | Geographic % + attendee type % breakdown |
-| Previous year featured speakers | Name, title, org — 4–6 people |
-| Previous year featured organisations | Grouped by category |
-| Previous year sponsors | Logo/name list |
-| Sponsorship tiers & prices | Tier names + USD amounts + benefit list |
-| Activation options | Which activations to include and their specs |
-| Week/agenda overview | Venue(s) and day-by-day structure |
-
-If the user says "use last year's content" or "use 2025 data", pull defaults from [references/gsmef-2025-content.md](references/gsmef-2025-content.md).
-For 2026 GSMEF content, use [references/gsmef-2026-content.md](references/gsmef-2026-content.md).
+Then follow the corresponding path below.
 
 ---
 
-## Step 2: Build the Deck
+## Mode A — Brand New Forum
 
-Follow the standard slide structure below. **Skip any slide where you don't have enough content to fill it meaningfully.** Don't leave placeholder text — if a section is missing, omit it and adjust slide numbering.
+Use this when the forum has no prior editions or reference decks.
 
-### Standard Slide Structure
+### A1: Gather Inputs
 
-| # | Slide | Required? | Content |
-|---|-------|-----------|---------|
-| 1 | **Cover** | Always | Event name, theme, dates + location, Hosted By / Organised By logos, key visual if available |
-| 2 | **Divider** | Optional | Subtle branded separator |
-| 3 | **Forum Overview** | Always | Edition number, strategic anchors, 2–3 paragraph description |
-| 4 | **D.C. / Location Value Prop** | If location is a key selling point | Highlight why this city/venue matters (e.g. World Bank HQ, development agenda) |
-| 5 | **Network Stats** | If data available | Headline quote + 5 key stats (members, MSMEs, finance enabled, AUM, countries) |
-| 6 | **Forum Activities** | If data available | Hub types, engagement categories (Learn / Link / Lead) |
-| 7 | **Co-Host Network** | If co-host exists | World map of GFTN + partner's combined global presence |
-| 8 | **Theme** | Always | Theme title + rationale paragraph |
-| 9 | **Topics** | Always | 3 pillars, each with 1-line framing + 3–5 sub-topic bullets |
-| 10 | **Who Attends** | If data available | Geographic breakdown + attendee-type breakdown from previous year |
-| 11 | **Featured Speakers** | If data available | 4–6 speaker cards from previous year |
-| 12 | **Week Overview** | If data available | Agenda/schedule and venue details |
-| 13 | **Featured Organisations** | If data available | Logo grid by category |
-| 14 | **Previous Sponsors** | If data available | Logo wall of past sponsors |
-| 15 | **Partnership Options** | Always | Tier comparison table (names + USD prices + benefits) |
-| 16 | **Why Sponsor** | Always | 3 numbered reasons |
-| 17+ | **Activations** | Per confirmed options | One slide per activation |
+Ask the user for the following. Mark required fields — do not proceed without them.
 
-### Standard Activations (Slides 17+)
+**Required**
+| Field | Example |
+|-------|---------|
+| Event name | GFTN Climate Finance Summit |
+| Year | 2026 |
+| Location | Singapore |
+| Venue | Marina Bay Sands |
+| Hosted by | GFTN |
+| Organised by | GFTN |
+| Theme | [Ask user] |
+| Event dates | [Ask user] |
+| Contact name + email | [Ask user] |
 
-Each activation slide: title, 1-line description, spec boxes (label in small caps, value below). Use a consistent layout across all activation slides.
+**Ask for each of the following — include slides only if user can provide content**
+| Field | Notes |
+|-------|-------|
+| Forum description | 2–3 sentence overview of what this forum is and why it exists |
+| Location value proposition | Why does this city/venue matter? |
+| Topic pillars | Ideally 3 pillars with a name + 3–5 sub-topics each |
+| Sponsorship tiers & prices | Tier names (e.g. Gold/Silver/Bronze) + USD prices + benefit list |
+| Activations | Which activations to offer — see standard list in Step 3 |
+| Why sponsor | 3 reasons a sponsor should attend |
+| Week/agenda overview | Day-by-day structure |
+| Any network or co-host stats | If GFTN or a co-host has relevant reach/network data to include |
+
+If the user says to use GFTN's standard network data, use:
+- 300+ member organisations across the GFTN global network
+- Presence across 50+ countries
+
+### A2: Build the Deck
+
+Use the slide structure in **Step 4** below, applying only slides for which content is available. Skip any slide where you don't have enough content — do not leave placeholder text.
+
+---
+
+## Mode B — Returning Forum (Previous Editions Exist)
+
+Use this when the forum has run before and previous decks are available.
+
+### B1: Request Previous Materials
+
+Ask the user:
+
+> "Please share the previous year's sponsorship/partnership deck (and any post-event data reports if available). I'll use these as the base and update for the new edition."
+
+Wait for the user to provide files before proceeding. Accept:
+- `.pptx` deck from the previous year
+- Post-event data extracts (`.pptx` or `.pdf`)
+- Any other reference files (teaser decks, KV proposals, pricing sheets)
+
+For GSMEF specifically, pre-loaded references are available:
+- [references/gsmef-2026-content.md](references/gsmef-2026-content.md) — 2026 content
+- [references/gsmef-2025-content.md](references/gsmef-2025-content.md) — 2025 content
+
+### B2: Extract from Previous Deck
+
+Once files are received, extract the following from the previous deck:
+- Slide structure and order
+- Existing stats, speaker names, audience breakdowns, sponsor names
+- Activations and their specs
+- Design palette and branding (if carrying forward)
+
+### B3: Gather Updates for This Edition
+
+After reviewing the previous deck, prompt the user for **only what has changed**:
+
+> "I've reviewed last year's deck. Here's what I need updated for [year]:"
+
+Then ask for each of the following:
+
+| What to update | Question to ask |
+|---------------|-----------------|
+| Event dates & location | "What are the dates and venue for [year]?" |
+| Edition number | "What edition is this?" |
+| Theme | "What is the [year] theme? Do you have the rationale paragraph?" |
+| Topic pillars | "Are the topic pillars the same, or are there new ones for [year]?" |
+| Audience stats | "Do you have updated audience stats from last year's event (attendee type % and geographic breakdown)?" |
+| Speakers | "Who are the confirmed speakers for [year]? Or should I carry forward [previous year]'s speakers as placeholders?" |
+| Sponsors | "Do you have an updated sponsor list to show?" |
+| Sponsorship tiers & pricing | "Are the tier names and prices the same, or have they changed?" |
+| Key visual / branding | "Is the [year] branding the same, or is there a new key visual / colour palette?" |
+| New slides or sections | "Is there anything new this year that wasn't in last year's deck?" |
+| Activations | "Are all the same activations being offered, or have any been added/removed?" |
+
+Skip any question where the user has already provided the answer.
+
+### B4: Build the Deck
+
+Carry forward all unchanged content from the previous deck. Only rebuild slides where content has been updated. Use the slide structure in **Step 4** below.
+
+---
+
+## Step 2: Confirm Before Building
+
+Before generating the `.pptx`, summarise what you have and what will be skipped:
+
+> "Here's what I'll include: [list slides]. I'll skip [X] because [reason]. Shall I proceed?"
+
+---
+
+## Step 3: Standard Activations
+
+Each activation slide uses a consistent layout: title, 1-line description, spec boxes (label in small caps + value below, thin accent line between).
 
 | Activation | Key Specs |
 |-----------|-----------|
-| Boardroom Discussion | 90 min, 10 pax, closed-door, by invitation, 8 slots |
-| Workshops | 30 min, 100 pax, open to all attendees, 16 slots |
-| Breakfast / Lunch Briefing | 60 min, 10 pax, private, 1 slot per location per day |
-| Breakfast Reception | CEO welcome remarks, screen branding, 2 slots (1 per day) |
-| Lunch Reception | CEO welcome remarks, screen branding, 2 slots (1 per day) |
-| Tea Break | Screen branding, tent cards, 2 slots (1 per day) |
-| Registration Branding | Online registration page + onsite desk branding |
+| Boardroom Discussion | 90 min, 10 pax, closed-door, by invitation, dedicated findings report — 8 slots |
+| Workshops | 30 min, 100 pax, open to all, attendee list provided — 16 slots |
+| Breakfast / Lunch Briefing | 60 min, 10 pax, private, dedicated findings report — 1 slot per location per day |
+| Breakfast Reception | CEO welcome remarks, screen branding (highest traffic), app + agenda logo, branded tent cards — 2 slots (1 per day) |
+| Lunch Reception | CEO welcome remarks, screen branding, app + agenda logo, 1 branded tent card — 2 slots (1 per day) |
+| Tea Break | Screen branding, app + agenda logo, 1 branded tent card — 2 slots (1 per day) |
+| Registration Branding | Online registration page + onsite registration desk branding |
 | Lanyards Branding | Ticket confirmation + lanyards worn by all attendees |
-| Event App & Meetings Area | Logo in app + early attendee list access |
-| Executive Lounge | VIP speaker space — registration desk + lounge branding |
-| Forum Stage | Branded video ad (30s) + logo placement, 1 day |
+| Event App & Meetings Area | Logo in app, pre-event marketing campaigns, early attendee list access |
+| Executive Lounge | Registration desk branding + VIP lounge branding (collaterals, tables, coffee area) |
+| Forum Stage | Branded video ad (30s) + logo placement for 1 day |
 | Knowledge Reports | Thought leadership logo, USD 15,000, 3 spots × 3 reports |
-| AI Insights Engine | Gen AI engine distilling forum insights |
-| Knowledge Reports – Key Topics | Topic breakdown across the 3 reports |
-| FutureMatters Stage | Co-curated thought leadership session, listed on agenda |
-| GSMEFF Dinner | Pre-event VIP dinner, CEO welcome, 2 slots |
+| AI Insights Engine | Gen AI engine distilling forum insights — brand association with outputs |
+| FutureMatters Stage | Co-curated thought leadership session listed on agenda |
+| GSMEFF Dinner | Pre-event VIP dinner, CEO welcome, logo on invitation — 2 slots |
 
 Only include activations confirmed for this event.
 
 ---
 
-## Step 3: Design
+## Step 4: Standard Slide Structure
 
-The 2026 GSMEF brand is a dark, premium palette — a significant departure from previous years. Apply it consistently.
+Skip any slide where you don't have enough content. Don't leave placeholder text — omit the slide instead.
 
-### Colours
+| # | Slide | Required? | Content |
+|---|-------|-----------|---------|
+| 1 | **Cover** | Always | Event name, theme, dates + location, Hosted By / Organised By, key visual if available |
+| 2 | **Forum Overview / The Opportunity** | Always | Edition number, gap/opportunity framing, headline stats (attendees, C-suite %, countries) |
+| 3 | **Network Stats** | If data available | Headline quote + 5 key stats (members, MSMEs, finance enabled, AUM, countries) |
+| 4 | **GFTN / Co-Host Network** | If co-host exists | Description of GFTN's role + co-host's global presence |
+| 5 | **Theme + Topics** | Always | Theme title + rationale + 3-pillar topic breakdown |
+| 6 | **Week Overview** | If data available | Venue + day-by-day agenda structure |
+| 7 | **Who Attends** | If data available | Geographic % + attendee-type % from previous year, with year noted |
+| 8 | **Featured Speakers** | If data available | Speaker cards (current or previous year) — note year clearly |
+| 9 | **Past Sponsors** | If data available | Logo wall grouped by tier, year noted |
+| 10 | **Why Sponsor** | Always | 3 numbered reasons |
+| 11 | **Closing / Contact** | Always | CTA + contact name and email |
+| 12 | **Partnership Options** | Always | Tier comparison table (names + prices + benefits) |
+| 13+ | **Activations** | Per confirmed options | One slide per activation — consistent spec-box layout |
+
+---
+
+## Step 5: Design
+
+### Default GFTN Palette (use when event has no own branding)
 | Use | Value |
 |-----|-------|
-| Background (dark) | Near-black `#0A0A0A` or dark teal gradient |
+| Background | Navy `#0D1B2A` |
+| Primary accent | Gold `#C9A84C` |
+| Secondary | White `#FFFFFF` |
+| Body text | Light grey `#E0E0E0` |
+
+### GSMEF 2026 Palette (dark, premium)
+| Use | Value |
+|-----|-------|
+| Background (cover/dividers) | Near-black `#0A0A0A` |
+| Background (content slides) | Dark teal `#0D2B2B` |
 | Primary accent | Lime green `#7DC242` |
-| Secondary accent | Cyan / teal `#00B4D8` |
-| Text on dark | White `#FFFFFF` |
-| Location badge | Outlined pill, lime/teal text |
+| Secondary accent | Cyan `#00B4D8` |
+| Text | White `#FFFFFF` |
+| Muted text | Light grey `#AAAAAA` |
 
-- **Cover and section dividers**: dark background with the Möbius ring key visual
-- **Content slides**: dark background preferred for consistency; use a very dark teal `#0D2B2B` or near-black if full dark feels too heavy for body slides
-- Lime green for headings and key callouts; cyan for dates, stats labels, and secondary text
-- The three Möbius rings represent the 3 topic layers (Market / Capital / Technology) — reference this symbolism when relevant
-
-### Key Visual
-- The 2026 KV is three interconnected Möbius rings in transparent glass on a dark background, expanding into circular ripples
-- Use it prominently on the cover slide (bottom half or full bleed)
-- Can be used as a subtle background element or accent on section dividers
-- Source file: `gsmeff kv_logo proposal2.pdf` in the GSMEF folder
-
-### Logo Versions (use as appropriate)
-1. **Horizontal dark**: "14-16 SEPT 2026 | GLOBAL SME FINANCE FORUM" — GLOBAL in lime green, rest white, dark background — for cover and dark slides
-2. **Horizontal light**: Same layout on white background — for light slides if used
-3. **Stacked dark**: "GLOBAL / SME FINANCE / FORUM | 14-16 / SEP / 2026" with lime green bar under "WASHINGTON, DC, USA" — for compact placements
+When the event has its own KV/colour palette, always use it. Otherwise fall back to the default GFTN palette.
 
 ### Typography
 | Element | Style |
 |---------|-------|
-| Cover headline (theme) | Bold, 48–60pt, white |
-| Slide title | Bold, 28–32pt, white or lime green |
-| Section header | Bold, 20–24pt |
+| Cover headline | Bold, 48–60pt, white |
+| Slide title | Bold, 28–32pt, white or primary accent |
 | Body | Regular, 14–16pt, white or light grey |
-| Stat callout | Bold, 48–60pt, lime green or cyan |
-| Spec box label | 10–11pt, all caps, muted grey |
+| Stat callout | Bold, 48–60pt, primary accent |
+| Spec box label | 10–11pt, all caps, muted |
 
-Font: Use a clean geometric sans-serif (Calibri, Arial, or similar available system font). The brand uses **Museo Slab** (headings) and **Museo Sans Rounded** (body) — use these if available, otherwise Calibri Bold / Calibri.
+Font: Museo Slab 700 / Museo Sans Rounded 500 — use Calibri Bold / Calibri as fallback.
 
 ### Layout Principles
-- Stats: large number callout + small label below, arranged in a row
-- Speaker cards: 4–6 up grid, photo + name + title + org
-- Activation slides: identical spec-box structure on every slide
+- Stats: large number + small label below, in a row
+- Speaker cards: grid layout, name + title + org (+ photo placeholder if no photo)
+- Activation slides: identical spec-box structure throughout
 - Every slide needs a visual element — never text-only
-- The KV ripple/ring motif can be echoed in decorative circular shapes on content slides
+- Generous whitespace — never cramped
 
 ### Avoid
-- Light backgrounds (unless specifically needed for a logo/sponsor page)
+- Light backgrounds unless specifically needed
 - Leftover placeholder text in final output
 - Inconsistent activation slide layouts
-- Cramped logo grids — give logos generous white (or dark) space
 
 ---
 
-## Step 4: QA
+## Step 6: QA
 
 Follow the full QA process from [pptx/SKILL.md](../pptx/SKILL.md):
 
@@ -165,13 +236,10 @@ Follow the full QA process from [pptx/SKILL.md](../pptx/SKILL.md):
 
 ## Adapting for Other GFTN Events
 
-This skill is built around GSMEF 2026 but designed to transfer. When creating a deck for another forum:
-
 - **Slide structure and activations** are largely consistent — update content, not structure
 - **Cover**: update event name, location, Hosted By / Organised By, key visual
 - **Location value prop slide**: tailor to the specific city/venue's significance
-- **Co-host network**: update based on who is co-hosting
-- **Network stats**: replace with relevant forum network's data
+- **Network stats**: replace with the relevant forum network's data
 - **Theme, topics, speakers**: always event-specific — always ask the user
-- **Branding**: check if the event has its own KV/colour palette (like GSMEF 2026 does) or whether to fall back to GFTN's standard navy/gold
+- **Branding**: check if the event has its own KV/colour palette or fall back to GFTN navy/gold
 - Confirm the activation list before including all of them
